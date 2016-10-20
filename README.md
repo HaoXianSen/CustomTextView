@@ -1,0 +1,2 @@
+# CustomTextView
+自定义texttextView可以统计字数
